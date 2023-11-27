@@ -1,0 +1,101 @@
+html {
+
+  filter: grayscale(100%);
+}
+
+
+@import url(https://fonts.googleapis.com/css2?family=Droid+Serif:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap);
+
+@import url(https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap);
+
+div.lobby__start {
+  font-family: Merriweather;
+  font-size: 11px;
+}
+
+div.lobby__app__content.lpools {
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 300;
+  font-style: normal;
+}
+
+#blind-mode {
+  filter: grayscale(100%);
+}
+
+#top {
+  filter: grayscale(100%);
+}
+
+div.is2d {
+  filter: grayscale(100%);
+}
+
+#friend_box {
+  filter: grayscale(100%);
+}
+
+a.link.text {
+  filter: grayscale(100%);
+}
+
+a.stream.highlight {
+  font-size: 12px;
+  font-weight: 100;
+  font-style: italic;
+  
+}
+
+a.little.tour-spotlight.id_hy905skz.Monthly.Bullet.standard {
+  background-color: #c2185b;
+}
+
+a.little.tour-spotlight.id_YcldmBN2.Hourly.Blitz.standard {
+  background-color: #c2185b;
+}
+
+a.tour-spotlight.little {
+  background-color: #c2185b;
+}
+
+div cg-container cg-board {
+  font-weight: 500;
+  font-style: normal;
+  font-size: 48px;
+}
+
+main.puzzle.puzzle-play {
+  background-color: #212121;
+}
+
+button.button.button-metal.config_hook {
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 500;
+  font-style: normal;
+}
+
+button.button.button-metal.config_friend {
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 500;
+  font-style: normal;
+}
+
+button.button.button-metal.config_ai {
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 500;
+  font-style: normal;
+}
+
+div.rclock.rclock-top.rclock-white.emerg {
+  font-family: Droid Serif;
+}
+
+p.status {
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+}

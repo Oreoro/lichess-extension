@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Better Lichess ",
+  "version": "1.0",
+  "permissions": ["activeTab", "storage"],
+  "icons": {
+    "16": "a1.png",
+    "32": "a1.png",
+    "48": "a2.png",
+    "128":"a2.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://lichess.org/*"],
+      "css": ["styles.css"]
+    }
+  ]
+} 
